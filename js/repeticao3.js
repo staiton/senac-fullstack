@@ -9,3 +9,5 @@ for (let i = 0; !notaValida; i++){
 }
 
 alert(`Programa encerrado com a nota ${nota}`)
+
+alert("rewste");
