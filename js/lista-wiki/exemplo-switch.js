@@ -17,5 +17,5 @@ switch(letra){
         alert(`letra U`);
         break;
     default:
-        alert(`Não é vogal`);
+        alert(`Não é uma vogal`);
 }
